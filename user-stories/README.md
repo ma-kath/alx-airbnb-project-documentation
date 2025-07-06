@@ -1,0 +1,2 @@
+xcellent! Based on the core functionalities and focusing only on human actors, here are all the user stories, organized by the functional areas of your Airbnb Clone backend:
+### Check the file [User Stories](https://github.com/airbnb-clone/backend/blob/main/user_stories.md)
